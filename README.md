@@ -32,4 +32,4 @@ The game WILL hitch when loading new assets that aren't in Cache. This isn't som
 Use these files and then use the [Ren'Py PSVita Distribution Tool](https://github.com/SonicMastr/Renpy-PSVita-Distribution-Tool) to create your own VPK (Can even be used to distribute your own Ren'Py Projects!)
 
 ## Ren'Py Vita
-If you would like to contribute to this project, you can do so [at my github repo](https://github.com/SonicMastr/renpy-vita)
+This port uses Ren'Py Vita. If you would like to contribute to this project, you can do so [at my github repo](https://github.com/SonicMastr/renpy-vita)
