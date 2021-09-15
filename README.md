@@ -28,5 +28,8 @@ Ren'Py directory scanning is also included (again, just like on PC).<br>So if yo
 ## Known Issues
 The game WILL hitch when loading new assets that aren't in Cache. This isn't something I can fix and is sadly a hardware limitation.<br>The Vita's IO is too slow to handle loading most assets on a whim. Some games use preloading to get around this. DDLC does not.
 
+## Want to build it yourself?
+Use these files and then use the [Ren'Py PSVita Distribution Tool](https://github.com/SonicMastr/Renpy-PSVita-Distribution-Tool) to create your own VPK (Can even be used to distribute your own Ren'Py Projects!)
+
 ## Ren'Py Vita
 If you would like to contribute to this project, you can do so [at my github repo](https://github.com/SonicMastr/renpy-vita)
