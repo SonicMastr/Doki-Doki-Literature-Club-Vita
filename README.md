@@ -21,7 +21,7 @@ Well, uh, you copied the folder. Just delete the characters, dummy. It's just li
 The game will still remain in an "unplayable" state when you beat it (just like on PC). All you have to do to reset it is delete the `firstrun` file, then restart.<br>The game will prompt you to delete savedata, then it should reset and start fresh.
 
 ## Modding
-Installing mods with this is as simple as dragging and dropping, just like on desktop versions of DDLC.<br>It's running the same version of Ren'Py.
+Installing mods (that don't include extra python modules) with this is as simple as dragging and dropping, just like on desktop versions of DDLC. It's running the same version of Ren'Py.
 
 ## Cool Quirk
 Ren'Py directory scanning is also included (again, just like on PC).<br>So if you have an always on background FTP plugin like Vitacompanion or Ftpeverywhere, you can delete some files and watch the game react accordingly (hint hint, Just Monika).
