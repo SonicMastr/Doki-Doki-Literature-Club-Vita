@@ -6,6 +6,7 @@ Vita Specific Patches and Application for Doki Doki Literature Club (Steam Versi
 - Performance patch for Act 3 (Just Monika)
 
 # Installation Instructions
+pre-req: rePatch-reLoaded (Tested) or FDFix (Not Tested)
 1. Download the VPK and install
 2. Install Doki Doki Literature Club on Steam (It's free)"
 3. Right Click DDLC in your Steam Library and navigate to `Manage -> Browse Local Files`
