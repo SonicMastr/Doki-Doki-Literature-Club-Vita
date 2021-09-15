@@ -10,7 +10,7 @@ Vita Specific Patches and Application for Doki Doki Literature Club (Steam Versi
 2. Install Doki Doki Literature Club on Steam (It's free)"
 3. Right Click DDLC in your Steam Library and navigate to `Manage -> Browse Local Files`
 4. Copy the `characters` Folder to `ux0:app/RNPYDDLC1`
-5. Copy `firstrun`, `audio.rpa`, `fonts.rpa`, and `images.rpa` to `ux0:app/RNPYDDLC1/game`<br>(DO NOT JUST COPY THE GAME FOLDER. This will work for other games, but DDLC is different)
+5. Copy `firstrun`, `audio.rpa`, `fonts.rpa`, and `images.rpa` to `ux0:app/RNPYDDLC1/game`<br>(DO NOT JUST COPY THE GAME FOLDER. This will work for other games, but DDLC is different)<br>(DO NOT copy `scripts.rpa` if you want the performance patch)
 6. Run Doki Doki Literature Club on the Vita (Initial load can take up to a minute)
 
 ## How to Delete Characters
